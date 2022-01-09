@@ -37,8 +37,6 @@ jobs:
           echo test, and deploy your project.
   
 
-
-:
 name: JS Actions
 
 on: [push]
